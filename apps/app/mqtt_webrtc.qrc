@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="/mqtt_webrtc">
+    </qresource>
+</RCC>
